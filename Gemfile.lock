@@ -6,6 +6,7 @@ PATH
 GEM
   remote: https://rubygems.org/
   specs:
+    minitest (5.10.1)
     rake (10.0.4)
 
 PLATFORMS
@@ -13,4 +14,8 @@ PLATFORMS
 
 DEPENDENCIES
   aws4!
+  minitest
   rake
+
+BUNDLED WITH
+   1.13.7
