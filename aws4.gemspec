@@ -13,6 +13,7 @@ Gem::Specification.new do |s|
   s.executables  = []
   s.homepage     = 'http://github.com/cmdrkeene/aws4'
 
+  s.add_development_dependency "minitest"
   s.add_development_dependency "rake"
 end
 
